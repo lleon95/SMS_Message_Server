@@ -18,12 +18,13 @@
 /**   Important Parameters  **/
 /**-------------------------**/
 var Submit = String.fromCharCode(26);
+var sport = '/dev/ttyS0';
 /**-------------------------**/
 /**     NodeJS Libraries    **/
 /**-------------------------**/
 // Serialport - For connecting to SIM900 Module
 var SerialPort = require('serialport');
-var SIM900 = new SerialPort('/dev/ttyS0', {
+var SIM900 = new SerialPort(sport, {
 	baudRate: 9600
 });
 // Serialport opening Routine
