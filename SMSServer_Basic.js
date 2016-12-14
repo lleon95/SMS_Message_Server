@@ -7,7 +7,7 @@
 //				and a Orange Pi. However, you can use this with other
 //				SIMxxx devices and a RaspberryPi	
 // Licence: This code is under MIT licence. You can use	it but you have
-//			to invite me a Coca Cola :) Please, don't forget give me
+//			to invite me to a Coca Cola :) Please, don't forget give me
 //			an acknowledgement.		
 // Hardware required: A computer or embed system. A SIM900 with serial 
 //			comm
